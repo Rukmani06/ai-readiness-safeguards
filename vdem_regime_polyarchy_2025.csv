@@ -1,0 +1,129 @@
+iso3,country,v2x_regime,v2x_polyarchy
+USA,United States of America,2.0,0.735
+CHN,China,0.0,0.072
+FRA,France,3.0,0.865
+CAN,Canada,2.0,0.84
+GBR,United Kingdom of Great Britain and Northern Ireland,2.0,0.772
+DEU,Germany,3.0,0.828
+SGP,Singapore,1.0,0.434
+JPN,Japan,3.0,0.819
+KOR,South Korea,3.0,0.819
+AUS,Australia,3.0,0.844
+NLD,Netherlands,3.0,0.832
+ARE,United Arab Emirates,0.0,0.104
+CHE,Switzerland,3.0,0.882
+ESP,Spain,3.0,0.822
+ISR,Israel,2.0,0.694
+NOR,Norway,3.0,0.89
+ITA,Italy,3.0,0.745
+IRL,Ireland,3.0,0.887
+AUT,Austria,3.0,0.839
+IND,India,1.0,0.377
+SAU,Saudi Arabia,0.0,0.016
+MYS,Malaysia,2.0,0.504
+BRA,Brazil,2.0,0.784
+POL,Poland,2.0,0.768
+THA,Thailand,1.0,0.424
+BEL,Belgium,3.0,0.889
+PRT,Portugal,2.0,0.822
+NZL,New Zealand,3.0,0.849
+BHR,Bahrain,0.0,0.139
+VNM,Viet Nam,0.0,0.146
+IDN,Indonesia,1.0,0.462
+SVN,Slovenia,2.0,0.692
+CHL,Chile,3.0,0.839
+QAT,Qatar,0.0,0.034
+HUN,Hungary,1.0,0.421
+LTU,Lithuania,3.0,0.786
+EST,Estonia,3.0,0.887
+ZAF,South Africa,2.0,0.743
+EGY,Egypt,1.0,0.187
+GRC,Greece,2.0,0.741
+KAZ,Kazakhstan,1.0,0.259
+BGR,Bulgaria,2.0,0.599
+PHL,Philippines,1.0,0.392
+ROU,Romania,2.0,0.605
+UKR,Ukraine,1.0,0.386
+UZB,Uzbekistan,0.0,0.218
+LVA,Latvia,3.0,0.834
+COL,Colombia,2.0,0.679
+SRB,Serbia,1.0,0.3
+URY,Uruguay,3.0,0.862
+AZE,Azerbaijan,1.0,0.171
+OMN,Oman,0.0,0.175
+MUS,Mauritius,2.0,0.738
+SVK,Slovakia,2.0,0.733
+MEX,Mexico,1.0,0.469
+JOR,Jordan,0.0,0.282
+KWT,Kuwait,0.0,0.138
+ARG,Argentina,2.0,0.69
+HRV,Croatia,2.0,0.686
+TUN,Tunisia,1.0,0.395
+GHA,Ghana,2.0,0.711
+MAR,Morocco,0.0,0.259
+NGA,Nigeria,2.0,0.505
+PAK,Pakistan,1.0,0.302
+LKA,Sri Lanka,2.0,0.783
+PER,Peru,2.0,0.667
+DZA,Algeria,1.0,0.265
+GEO,Georgia,1.0,0.401
+ALB,Albania,1.0,0.484
+ECU,Ecuador,2.0,0.607
+LBN,Lebanon,1.0,0.419
+KEN,Kenya,2.0,0.563
+PAN,Panama,2.0,0.728
+MDA,Republic of Moldova,2.0,0.553
+BLR,Belarus,0.0,0.163
+CIV,Cote d'Ivoire,1.0,0.394
+SEN,Senegal,2.0,0.633
+BWA,Botswana,2.0,0.665
+CRI,Costa Rica,3.0,0.862
+MNE,Montenegro,2.0,0.636
+ETH,Ethiopia,1.0,0.257
+KGZ,Kyrgyz Republic,1.0,0.313
+BGD,Bangladesh,0.0,0.195
+MKD,North Macedonia,2.0,0.562
+PRY,Paraguay,2.0,0.581
+ARM,Armenia,2.0,0.614
+ZMB,Zambia,1.0,0.497
+MNG,Mongolia,2.0,0.535
+BTN,Bhutan,2.0,0.566
+CMR,Cameroon,1.0,0.26
+TZA,United Republic of Tanzania,1.0,0.365
+RWA,Rwanda,1.0,0.193
+LBY,Libya,0.0,0.193
+SLV,El Salvador,1.0,0.321
+NPL,Nepal,2.0,0.656
+TTO,Trinidad and Tobago,3.0,0.786
+DOM,Dominican Republic,2.0,0.735
+LAO,Lao People's Democratic Republic,0.0,0.135
+KHM,Cambodia,1.0,0.183
+JAM,Jamaica,2.0,0.805
+TKM,Turkmenistan,0.0,0.148
+UGA,Uganda,1.0,0.253
+BEN,Benin,1.0,0.493
+ZWE,Zimbabwe,1.0,0.268
+MMR,Myanmar,0.0,0.08
+BRB,Barbados,3.0,0.797
+SOM,Somalia,0.0,0.165
+HND,Honduras,2.0,0.511
+MWI,Malawi,2.0,0.557
+LSO,Lesotho,2.0,0.661
+BOL,Bolivia (Plurinational State of),2.0,0.605
+AGO,Angola,1.0,0.344
+TGO,Togo,1.0,0.351
+COD,Democratic Republic of the Congo,1.0,0.306
+GMB,Gambia,2.0,0.641
+TJK,Tajikistan,1.0,0.158
+MOZ,Mozambique,1.0,0.279
+COG,Congo,1.0,0.243
+BFA,Burkina Faso,0.0,0.134
+LBR,Liberia,2.0,0.597
+SLE,Sierra Leone,1.0,0.471
+SSD,South Sudan,0.0,0.133
+CAF,Central African Republic,1.0,0.293
+AFG,Afghanistan,0.0,0.069
+TCD,Chad,1.0,0.242
+HTI,Haiti,0.0,0.238
+BDI,Burundi,1.0,0.185
+NER,Niger,0.0,0.227
