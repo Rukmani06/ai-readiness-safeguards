@@ -1,0 +1,6 @@
+s.pkl
+__pycache__/
+*.pyc
+.DS_Store
+vdem/
+/*.png
